@@ -1,0 +1,26 @@
+body {
+  background-image: url('https://wallpapercave.com/wp/wp6641086.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  margin: auto;
+  padding: 50px 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 72px;
+  color: rgb(82, 159, 219);
+  margin-bottom: 50px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  text-stroke-width: 1px;
+  text-stroke-color: white;
+}
